@@ -1,0 +1,13 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Nov  7 15:36:15 2024 
+Best design point: 1
+Design specs: 
+	VLSI_proj_tb_32x32sram_1	corner	Nominal - 
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu Nov  7 15:36:54 2024 
