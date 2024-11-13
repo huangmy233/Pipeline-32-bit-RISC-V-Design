@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ruiyang321
+HostName                       ecellvm-01.engr.ucsb.edu
+ProcessIdentifier              22732
+ProcessCreationTime_UTC        1731100632
+ProcessCreationTime_Readable   Fri Nov  8 13:17:12 2024 PST
+AppIdentifier                  /ece/cadence/rhel8/IC231/tools/dfII/bin/64bit/layout
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /cs/student/ruiyang321/Desktop/ncsu45_cp/project_test/SRAM_WLDEC32_test/maestro/maestro.sdb
+TimeEditLocked                 Fri Nov  8 14:41:49 2024 PST
